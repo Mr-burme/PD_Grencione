@@ -3,7 +3,7 @@
 #1 Bērziņa Tīna
 
 #2 Burmistris Ernests
-
+print(cos(radians(60)+fmod(15,2)))
 #3 Jefremovs Ēriks Miķelis
 
 #4 Krastiņš Ričards
